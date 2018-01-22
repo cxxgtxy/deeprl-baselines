@@ -1,7 +1,7 @@
 
 # Baselines
 
-My code is based on OpenAI Baselines, which is a set of high-quality implementations of reinforcement learning algorithms.
+Our code is based on OpenAI Baselines, which is a set of high-quality implementations of reinforcement learning algorithms.
 Our code is aimed to provide more algorithms which is not included by OpenAI baselines, such as C51 and rainbow, as well
  as improvements.
  
