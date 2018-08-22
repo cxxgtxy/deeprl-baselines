@@ -10,7 +10,7 @@ These algorithms will make it easier for the research community to replicate, re
 You can install it by typing:
 
 ```bash
-git https://github.com/cxxgtxy/deeprl-baselines.git
+git clone https://github.com/cxxgtxy/deeprl-baselines.git
 cd deeprl-baselines
 pip install -e .
 ```
